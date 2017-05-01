@@ -1,8 +1,8 @@
 {
-  "name": "mnemonic.js",
+  "name": "mnemonic-browser",
   "version": "0.0.1",
   "description": "Mnemonic.js",
-  "main": "mnemonic.js",
+  "main": "mnemonic",
   "directories": {
     "test": "tests"
   },
